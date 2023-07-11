@@ -1,0 +1,16 @@
+/**:
+  ros__parameters:
+    input_bag_path: "/home/yavz/2023-06-21-11-58-55"
+    pospac_file_path: "/home/yavz/ytu_campus_260523_test_data_6_pp_istn_utc.txt"
+    output_bag_path: "/home/yavz/pointcloud_pospac"
+    imu_topic: "/imu/data"
+    navmsg_topic: "/gps/fix"
+    pointcloud_topic: "/points_raw"
+    twist_topic: "/twist"
+    lidar_frame: "lidar_link"
+    imu_frame: "navsat_link"
+    navmsg_frame: "navsat_link"
+    twist_frame: "navsat_link"
+    starting_orientation_roll: -0.777117
+    starting_orientation_pitch: -5.432728
+    starting_orientation_yaw: 219.101116
